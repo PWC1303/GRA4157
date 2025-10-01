@@ -1,0 +1,11 @@
+name,score,pass
+Gary,0.1,no
+Roger,0.2,no
+Mads,0.8,no
+Nikki,0.9,yes
+Loyd,0.9,yes
+Paul,0.8,yes
+Brage,0.7,yes
+Oskar,0.2,no
+Felix,0.9,yes
+
